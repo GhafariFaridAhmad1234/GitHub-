@@ -9,5 +9,9 @@ public class dddd {
 		System.out.println(sum);
 
 	}
+	public static String getName(){
+	String name="GitHub";
+	return name;
+	}
 
 }
